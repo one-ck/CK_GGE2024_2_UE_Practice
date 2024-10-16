@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# 깃으로 처리하지 못하는 대용량 에셋들
+GitIgnoreAssets/*
