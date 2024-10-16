@@ -74,4 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # 깃으로 처리하지 못하는 대용량 에셋들
-GitIgnoreAssets/*
+Content/GitIgnoreAssets/*
