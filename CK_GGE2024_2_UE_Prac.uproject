@@ -31,6 +31,10 @@
 		{
 			"Name": "WaterExtras",
 			"Enabled": true
+		},
+		{
+			"Name": "Cargo",
+			"Enabled": true
 		}
 	]
 }
